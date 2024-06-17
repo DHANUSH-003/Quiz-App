@@ -1,0 +1,22 @@
+[
+   {
+    "id":1,
+    "question":  "Who played the title role in the movie Hancock?",
+    "options":["Leonardo DiCaprio", "Will Smith", "Tom hardey", "Brand Pit"],
+    "answer": "Will Smith"
+   },
+
+   {
+    "id":2,
+    "question":  "Which of Shakespeare's plays is Taylor Swift's song 'Love Story' about?",
+    "options":["The Tempest", " Twelfth Night", " Much Ado About Nothing", "Romeo and Juliet"],
+    "answer": "Romeo and Juliet"
+   },
+
+   {
+    "id":3,
+    "question":  "How many strings are there on a cello?",
+    "options":[6, 2, 4, 8],
+    "answer": 4
+   }
+]
